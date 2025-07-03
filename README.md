@@ -21,6 +21,7 @@
   I love building cool tech and exploring new tools! ✨
 </div>
 
+<br><br>
 <!-- Github Readme Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ConnectMayukh12&rank_icon=percentile&show=prs_merged,prs_merged_percentage&theme=moltack" width="45%" alt="stats graph" />
@@ -41,7 +42,8 @@
 
 <!-- Contact Section -->
 <div align="center">
-  ## 📞 Connect with me
+   <strong>📞 Connect with me</strong>
+  <br><br>
 
   <p align="center">
     <a href="mailto:bhowmikmayukh12@gmail.com?subject=Want%20to%20contact%20you%20from%20github">
@@ -93,6 +95,8 @@
   - 🥅 <i><b>2025 Goals</b></i>: Hungry to learn scalability and build robust, high-performance systems. 🚀<br />
   - ⚡ Interests: Wondering how ChatGPT might take my job! 😏<br />
 </p>
+
+<br><br>
 
 <!-- Skill Section -->
 
